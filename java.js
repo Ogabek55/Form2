@@ -15,6 +15,7 @@ var oyna = document.getElementById(`oyna`);
           alert("Ismingizni kiriting");
         } else if (Surname.value === "") {
             alert("Familyangizni kiriting");
+              alert("Ishonchingiz komilmi to'g'ri yozganizga");
         } else if (Numberr.value === "") {
             alert("Telefon raqaminigzni kiriting");
         } else if (Name.value !=="", Surname.value !=="", Numberr.value !==""){
